@@ -42,11 +42,11 @@ There can be question &amp; answer pairs in the FAQ that do not fit the chatbot.
 
 ## Intent &amp; Response
 
-![intent and response](intent and response.png)
+![intent and response](intent&response.png)
 
 Each question and answer pairs in the knowledge base can be map to an intent and response pair.
 
-![intent example](intent example.png)
+![intent example](intent_example.png)
 
 Come up with multiple queries that can be map to an intent. The more queries that can be matched to the intent, the more accurate the FAQ chatbot will be.
 
