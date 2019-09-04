@@ -76,10 +76,10 @@ False negative outcomes – the questions can be added to the queries that match
 
 False positive outcomes – either
 
-1. a)The query can be match to other intent, then the questions can be add to the correct intent and retrain the ML model
-2. b)The query cannot to match to any intent, that means the query is impossible to answer by the chatbot based on the knowledge base that is train upon.
-  1. Add a new intent to resolve the query OR
-  2. Add the query to match the fall-back intent
+- The query can be match to other intent, then the questions can be add to the correct intent and retrain the ML model
+- The query cannot to match to any intent, that means the query is impossible to answer by the chatbot based on the knowledge base that is train upon.
+	- Add a new intent to resolve the query OR
+	- Add the query to match the fall-back intent
 
 The testing phase is an **iterative process**. As more users uses the chatbot, you can understand the user&#39;s interaction with the chatbot and improve on it.
 
