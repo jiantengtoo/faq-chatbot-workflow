@@ -14,6 +14,7 @@ Frequently asked questions (FAQs) provide a list of question and answer pairs on
 ## Overview
 
 ![Overview](Overview.png)
+
 The process of building a FAQ chatbot involves 4 steps.
 
 ## Requirement Specification
@@ -41,10 +42,11 @@ There can be question &amp; answer pairs in the FAQ that do not fit the chatbot.
 
 ## Intent &amp; Response
 
+![intent and response](intent and response.png)
 
 Each question and answer pairs in the knowledge base can be map to an intent and response pair.
 
-
+![intent example](intent example.png)
 
 Come up with multiple queries that can be map to an intent. The more queries that can be matched to the intent, the more accurate the FAQ chatbot will be.
 
