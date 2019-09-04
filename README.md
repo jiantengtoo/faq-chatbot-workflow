@@ -13,7 +13,7 @@ Frequently asked questions (FAQs) provide a list of question and answer pairs on
 
 ## Overview
 
-
+![Overview](Overview.png)
 The process of building a FAQ chatbot involves 4 steps.
 
 ## Requirement Specification
