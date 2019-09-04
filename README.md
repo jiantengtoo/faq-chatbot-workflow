@@ -63,8 +63,9 @@ A fall-back intent is an intent that will be match when no other intents are mat
 
 After users test out the chatbot, there will be 4 different outcomes.
 
+| Test Result||
+|--|--|
 | Intent Match and Correct Match | True Positive |
-| --- | --- |
 | Intent Match but Wrong Match | False Positive |
 | Fall-back Intent and Correct Match | True Negative |
 | Fall-back Intent but Wrong Match | False Negative |
